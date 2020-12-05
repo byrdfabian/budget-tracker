@@ -24,6 +24,6 @@ I am able to visual chart my assets which will allow me to stay within a specifi
 
 [Click here to view]
 
-## Screenshot of Brew Masters
+## Screenshot of Budget Tracker
 
-![Screenshot of Brew Masters home page](./assets/brew-masters.png)
+![Screenshot of budget-tracker.png home page](images/budget-tracker.png)
