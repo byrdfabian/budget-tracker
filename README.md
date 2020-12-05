@@ -20,9 +20,9 @@ GIVEN  A budget-tracer App with user input
 I am able to visual chart my assets which will allow me to stay within a specified goal
 ```
 
-## Link to Brew Masters
+## Link to Budget Tracker Heroku
 
-[Click here to view](https://byrdfabian.github.io/project-brewery/)
+[Click here to view]
 
 ## Screenshot of Brew Masters
 
