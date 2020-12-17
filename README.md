@@ -22,7 +22,7 @@ I am able to visual chart my assets which will allow me to stay within a specifi
 
 ## Link to Budget Tracker Heroku
 
-[Click here to view]
+https://fb-budget-tracker.herokuapp.com/
 
 ## Screenshot of Budget Tracker
 
